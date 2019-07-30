@@ -1,0 +1,14 @@
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.exe
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.deps.json
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.runtimeconfig.json
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.runtimeconfig.dev.json
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.dll
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.pdb
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.csprojAssemblyReference.cache
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.csproj.CoreCompileInputs.cache
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.AssemblyInfoInputs.cache
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.AssemblyInfo.cs
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.dll
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Release\netcoreapp2.1\win-x86\DotNetCoreISerializable.pdb

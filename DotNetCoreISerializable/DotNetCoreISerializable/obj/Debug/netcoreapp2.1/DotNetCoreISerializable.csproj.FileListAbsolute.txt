@@ -1,0 +1,11 @@
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Debug\netcoreapp2.1\DotNetCoreISerializable.deps.json
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Debug\netcoreapp2.1\DotNetCoreISerializable.runtimeconfig.json
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Debug\netcoreapp2.1\DotNetCoreISerializable.runtimeconfig.dev.json
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Debug\netcoreapp2.1\DotNetCoreISerializable.dll
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\bin\Debug\netcoreapp2.1\DotNetCoreISerializable.pdb
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Debug\netcoreapp2.1\DotNetCoreISerializable.csprojAssemblyReference.cache
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Debug\netcoreapp2.1\DotNetCoreISerializable.csproj.CoreCompileInputs.cache
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Debug\netcoreapp2.1\DotNetCoreISerializable.AssemblyInfoInputs.cache
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Debug\netcoreapp2.1\DotNetCoreISerializable.AssemblyInfo.cs
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Debug\netcoreapp2.1\DotNetCoreISerializable.dll
+C:\Peter\VSLIB\DotNetCoreISerializable\DotNetCoreISerializable\obj\Debug\netcoreapp2.1\DotNetCoreISerializable.pdb
